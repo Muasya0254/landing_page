@@ -81,4 +81,6 @@
   .hero .hero-links img {
     width: 50px;
   }
-  
+  body {
+    background-color: var(--bg);
+  }
